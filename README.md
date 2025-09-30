@@ -1,0 +1,2 @@
+# SQL_Fundamentals_Exercise01
+BrightLearn_Data_Analytics
