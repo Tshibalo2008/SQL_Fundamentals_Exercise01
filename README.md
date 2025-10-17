@@ -1,2 +1,2 @@
-# SQL_Fundamentals_Exercise01
+# SQL_Fundamentals_Exercises_BrightLearn
 BrightLearn_Data_Analytics
